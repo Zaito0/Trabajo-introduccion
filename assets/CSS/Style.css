@@ -17,3 +17,10 @@ body{
 .contacto{
     color: #fff;
 }
+.card img{
+    width: 300px;
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 25%;
+}
